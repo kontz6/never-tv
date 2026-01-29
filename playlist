@@ -1,11 +1,5 @@
 #EXTM3U url=""
 
-#EXTINF:-1 group-title="NASIONAL",! 01 JOIN GROUP
-https://dl.dropboxusercontent.com/scl/fi/gpiumnhtdrolxatwl595x/JOIN-GROUP.mp4?rlkey=vums52gf0gu45dtleznmdqe99&st=b8xbixla&dl=0
-
-#EXTINF:-1 group-title="NASIONAL",! 02 TRAKTIR NGOPI
-https://dl.dropboxusercontent.com/scl/fi/ev44w0ebw6fmmchp6agwp/DONASI-DANA.mp4?rlkey=bft46gxlqnuoiic7vdr603wj0&st=5ysj9c1w&dl=0
-
 #EXTINF:-1 tvg-id="1" group-title="NASIONAL",INDOSIAR WF
 https://warningfm.github.io/v3/live/str/id/575eeb9f08dc8db.m3u8
 
