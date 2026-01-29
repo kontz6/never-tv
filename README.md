@@ -1,4 +1,7 @@
 # never-tv
 
-never tv is an iptv, its free btw and dont sell it!!!
-<img width="498" height="377" alt="Image" src="https://github.com/user-attachments/assets/d07c45a0-cd60-4dcf-871d-db999755bd5e" />
+its free btw and dont sell it!!!
+
+
+![Image](https://github.com/user-attachments/assets/f49c952c-237c-433a-adeb-7009ecd36078)
+
