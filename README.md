@@ -1,3 +1,3 @@
 # never-tv
 
-never tv is a iptv, its free btw and dont sell it!!!
+never tv is an iptv, its free btw and dont sell it!!!
